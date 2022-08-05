@@ -1,6 +1,7 @@
 
-#Olá, tudo bem? Me chamo Gleison schlemper. <br/><br/>
-Cursando Engenharia de software - UDESC Ibirama.<br/> 
+Olá, tudo bem? Me chamo Gleison schlemper; <br/><br/>
+Cursando Engenharia de software - UDESC - Ibirama;<br/>
+Cursando Jovem programador - SENAC - Rio do sul.<br/> 
 
 <div style="display: inline_block" width="100%"><br>
   <img align="center" alt="gleiosn-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
