@@ -11,6 +11,8 @@ Cursando Jovem programador - SENAC - Rio do sul.
 </div>
 <br/>
 
-<div>
+<div style="display:block">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleisonschlemper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonschlemper&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
