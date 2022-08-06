@@ -3,8 +3,8 @@ Olá, tudo bem? Me chamo Gleison schlemper; <br/><br/>
 Cursando Engenharia de software - UDESC - Ibirama;<br/>
 Cursando Jovem programador - SENAC - Rio do sul.<br/> 
 
-<div style:"display:flex">
-<img src="https://www.flaticon.com/br/stickers-gratis/educacao">>
+<div style:"display:inline_block">
+<img src="https://www.flaticon.com/br/stickers-gratis/educaca](https://cdn-icons-png.flaticon.com/256/7273/7273751.png)" >
 <div>
 
 
