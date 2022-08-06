@@ -10,5 +10,7 @@ Cursando Jovem programador - SENAC - Rio do sul.<br/>
   <img align="center" alt="gleiosn-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div><br/> 
 
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
