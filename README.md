@@ -3,11 +3,6 @@ Olá, tudo bem? Me chamo Gleison schlemper; <br/><br/>
 Cursando Engenharia de software - UDESC - Ibirama;<br/>
 Cursando Jovem programador - SENAC - Rio do sul.<br/> 
 
-<div style:"display:inline_block">
-<img src="https://www.flaticon.com/br/stickers-gratis/educaca](https://cdn-icons-png.flaticon.com/256/7273/7273751.png)" >
-<div>
-
-
 <div style="display: inline_block" width="100%"><br>
   <img align="center" alt="gleiosn-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gleiosn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
