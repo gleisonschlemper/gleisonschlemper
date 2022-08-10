@@ -12,7 +12,8 @@ Cursando Jovem programador - SENAC - Rio do sul.
 <br/>
 
 <div style="display:block">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleisonschlemper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width=600 src="https://github-readme-stats.vercel.app/api?username=gleisonschlemper&theme=highcontrast&show_icons=true&hide_title=true" />
   <br>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonschlemper&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gelvazio&show_icons=true&theme=highcontrast&hide_border=false&hide_title=true&locale=pt-Br" alt="Gelvazio Camargo" />
+  
 </div>
