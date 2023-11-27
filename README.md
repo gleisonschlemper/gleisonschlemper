@@ -1,7 +1,7 @@
 
 ### Olá, tudo bem? Me chamo Gleison schlemper; <br/>
-Cursando Engenharia de software - UDESC - Ibirama;<br/>
-Cursando Jovem programador - SENAC - Rio do sul.
+Ciência da Computação - IFC - Rio do Sul;<br/>
+
 
 <div style="display: inline_block" >
     <img align="center" alt="gleisosn-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
