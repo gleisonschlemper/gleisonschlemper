@@ -1,5 +1,5 @@
 
-### Olá, tudo bem? Me chamo Gleison schlemper; <br/>
+### Olá, tudo bem? Eu me chamo Gleison schlemper; <br/>
 Ciência da Computação - IFC - Rio do Sul;<br/>
 
 
